@@ -1,0 +1,15 @@
+--- !ruby/object:Codebreaker::Game
+secret_code: '4266'
+number_of_turns: 4
+hint_position: 0
+hints_avaliable: 1
+user_guesses_and_answers:
+- '3244': "+--"
+- '1321': "-"
+- '4125': "+-"
+- '6542': "---"
+- '2342': "---"
+- '1234': "+-"
+- '124124': Wrong guess. Must be 4 numbers. Each from 1 to 6.
+game_status: not_completed
+result_saved: false

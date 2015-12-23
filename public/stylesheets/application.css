@@ -1,0 +1,55 @@
+
+body {
+  background-image: url('/stylesheets/ss.jpg');
+  background-size: 1400px;
+  font-family: 'Lato', sans-serif;
+}
+#container {
+  width: 100%;
+  float: left;
+  max-width: 750px;
+  color:white;
+  margin: 0 auto;
+  border-radius: 7px;
+  padding: 120px 80px;
+}
+a {
+  color: #FFFFFF;
+}
+
+.hint em {
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.left-side {
+  float: left;
+  width: 55%;
+  margin-right:5%;
+}
+
+.right-side {
+  float: right;
+  width: 40%;
+  padding-top: 50px;
+}
+
+.clear {
+  clear:both;
+}
+
+.results {
+
+  padding: 10px;
+}
+
+.results table thead tr th {
+  text-align: left;
+}
+.results table {
+  font-size: 12px;
+}
+
+.results th, .results td {
+  padding:3px 5px;
+}
